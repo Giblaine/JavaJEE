@@ -27,6 +27,7 @@ public class Convertisseur extends HttpServlet {
 		out.println("<!DOCTYPE html>");
 		out.println("<html><head>");
 		out.println("<title>Convertisseur de température</title>");
+		out.println("<p>Test de modification pour Git</p>");
 		out.println("</head><body>Vous pouvez convertir une température exprimée en");
 		out.println("<b>Celsius</b> en une valeur exprimée en  <b>Fahrenheit</b><hr />");
 		out.println("<form method='post'  action='./Convertisseur'>");
