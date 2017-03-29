@@ -8,11 +8,8 @@ public class Temperature {
           celsius = valeurCelsius;
     }
 
-    /**
-     * Pour obtenir la valeur en Celsius
-     *
-     * @return Valeur de la température en Celsius
-   */
+    //Coucou Clem
+    
     public double getCelsius() {
           return celsius;
     }
