@@ -3,9 +3,6 @@ package com.metier;
 public class Temperature {
 	private double celsius;
 
-    /**
-     * Le constructeur, prend des Celsius en param�tres
-    */
     public Temperature(double valeurCelsius)
     {
           celsius = valeurCelsius;
